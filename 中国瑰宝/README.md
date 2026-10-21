@@ -17,7 +17,7 @@
 | 儒家 | [儒家总览](儒家/README.md) | [概念与修养](儒家/思想与概念.md) | [人物与贡献](儒家/代表人物.md) | [经典与阅读入口](儒家/经典导读.md) |
 
 - [三家对照：异同、交往与常见误读](三家对照.md)
-- [思维模型知识库](https://github.com/yujianggu/kb/tree/ss/思维模型)
+- [思维模型知识库](https://github.com/yujianggu/mindset-think)
 
 ## 经典全文
 
