@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "path_base": "repository-root",
+  "domains": [
+    {
+      "id": "culture",
+      "title": "中国瑰宝",
+      "summary": "中华历史的朝代、时间、人物与事件，以及佛、道、儒的思想概念与经典。",
+      "catalog": "中国瑰宝/catalog.json"
+    }
+  ],
+  "extensions": []
+}
